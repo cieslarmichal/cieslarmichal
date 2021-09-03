@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Michal Cieslar</h1>
+<h1 align="center">Hello 👋, I'm Michal Cieslar!</h1>
 <br>
 
 I'm always open for collaboration on open source projects
