@@ -3,7 +3,7 @@
 
 I'm always open for collaboration on open source projects
 
-<h3>Developing personal projects:</h3>
+<h3>Contributing to projects:</h3>
 <ul>
   <li>🏦 berthier - app for budgeting that controls money transactions directly from bank account</li>
   <li>🎮 chimarrao platformer - 2d platformer game</li>
