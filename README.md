@@ -6,7 +6,7 @@ I'm always open for collaboration on open source projects
 <h3>Contributing to projects:</h3>
 <ul>
   <li>🏦 berthier - app for budgeting that controls money transactions directly from bank account</li>
-  <li>pocket - app for saving content found on the Internet, which the user wishes to keep for the future</li>
+  <li>book-store-api - rest api for book store</li>
 </ul>
 </br>
 
