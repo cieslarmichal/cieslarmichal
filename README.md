@@ -8,7 +8,3 @@
   <li>:watch: :envelope: scheduled-messages - Application for scheduling the sending of messages</li>
 </ul>
 </br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cieslarmichal&layout=compact&theme=dark" width = 335>
-</p>
