@@ -3,7 +3,7 @@
 
 <h3>Currently working on:</h3>
 <ul>
-  <li>:books: book-store-api - Backend api for selling books</li>
+  <li>:books: bookstore - Backend for an online bookstore</li>
   <li>:envelope: torrent-client - A simple BitTorrent client</li>
 </ul>
 
