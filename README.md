@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Michal Cieslar!</h1>
 <br>
 
-<h3>Currently working on:</h3>
+<h3>Current projects:</h3>
 <ul>
   <li>:books: bookstore - Backend for an online bookstore</li>
   <li>:envelope: torrent-client - A simple BitTorrent client</li>
