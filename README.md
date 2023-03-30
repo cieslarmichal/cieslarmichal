@@ -4,7 +4,7 @@
 <h3>Current projects:</h3>
 <ul>
   <li>:books: bookstore - Backend for an online bookstore</li>
-  <li>:coin: bookcoin - A simple proof of work cryptocurrency</li>
+  <li>:coin: bookcoin - A simple proof of work cryptocurrency using DDD</li>
   <li>:envelope: torrent-client - A simple BitTorrent client</li>
 </ul>
 
