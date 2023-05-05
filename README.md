@@ -5,7 +5,7 @@
 <ul>
   <li>:books: bookstore - Backend for an online bookstore</li>
   <li>:coin: bookcoin - A simple proof of work cryptocurrency</li>
-  <li>:computer: Chatroom modeled on discord</li>
+  <li>:computer: chatroom - Chatroom modeled on discord</li>
 </ul>
 
 <h3>TODO projects:</h3>
