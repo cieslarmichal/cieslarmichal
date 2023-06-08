@@ -13,7 +13,6 @@
   <li>Weather app</li>
   <li>Berthier</li>
   <li>Discord bot in Node.js</li>
-  <li>Redis clone</li>
   <li>Cryptocurrency trading bot in Node.js</li>
 </ul>
 </br>
