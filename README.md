@@ -4,20 +4,20 @@
 
 <h3>Current projects:</h3>
 <ul>
-  <li>:coin: bookcoin - A simple proof of work cryptocurrency</li>
-  <li>:computer: chatroom - Chatroom modeled on discord</li>
-  <li>faker-cxx - C++ Faker library based on faker-js/faker</li>
+  <li>🪙 bookcoin - A simple proof of work cryptocurrency</li>
+  <li>📨 chatroom - Chatroom modeled on discord</li>
+  <li>🤡 faker-cxx - C++ Faker library based on faker-js/faker</li>
 </ul>
 
 <br/>
 
 <h3>TODO projects:</h3>
 <ul>
-  <li>Weather app for meteoropathics</li>
-  <li>Berthier</li>
-  <li>Discord bot in Node.js</li>
-  <li>Cryptocurrency trading bot in Node.js</li>
-  <li>Clothes app</li>
+  <li>🌥 Weather app - Weather forecast for meteoropathics</li>
+  <li>🏦 Berthier - App for controlling spending money</li>
+  <li>🤖 Discord bot in Node.js</li>
+  <li>📈 Cryptocurrency trading bot in Node.js</li>
+  <li>👕 Clothes app</li>
 </ul>
 
 <br/>
