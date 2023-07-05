@@ -9,7 +9,6 @@
   <li>🤡 faker-cxx - C++ Faker library based on faker-js/faker</li>
 </ul>
 
-<br/>
 
 <h3>TODO projects:</h3>
 <ul>
