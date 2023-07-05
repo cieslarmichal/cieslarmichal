@@ -10,6 +10,7 @@
 
 <h3>TODO projects:</h3>
 <ul>
+  <li>Weather app for meteoropathics</li>
   <li>Berthier</li>
   <li>Discord bot in Node.js</li>
   <li>Cryptocurrency trading bot in Node.js</li>
