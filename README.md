@@ -12,11 +12,9 @@
 
 <h3>TODO projects:</h3>
 <ul>
-  <li>🌥 Weather app - Weather forecast for meteoropathics</li>
   <li>🏦 Berthier - App for controlling spending money</li>
   <li>🤖 Discord bot in Node.js</li>
   <li>📈 Cryptocurrency trading bot in Node.js</li>
-  <li>👕 Clothes app</li>
 </ul>
 
 <br/>
