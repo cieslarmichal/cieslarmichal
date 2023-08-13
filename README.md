@@ -14,9 +14,6 @@
 <ul>
   <li>🏦 Berthier - App for controlling spending money</li>
   <li>🤖 Discord bot in Node.js</li>
-  <li>🤖 Twitter bot in Node.js</li>
-  <li>📈 Cryptocurrency trading bot in Node.js</li>
-  <li>🤖 OpenAI whatsapp assistant</li>
 </ul>
 
 <br/>
