@@ -13,7 +13,6 @@
 <h3>TODO projects:</h3>
 <ul>
   <li>🏦 Berthier - App for controlling spending money</li>
-  <li>🤖 Discord bot in Node.js</li>
 </ul>
 
 <br/>
