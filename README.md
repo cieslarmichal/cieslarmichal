@@ -17,7 +17,7 @@
 
 <br/>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cieslarmichal&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="cieslarmichal" /></p>
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=cieslarmichal&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="cieslarmichal" /></p>
 
 <h3>Connect with me:</h3>
 <p align="left">
