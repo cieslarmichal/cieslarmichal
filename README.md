@@ -7,14 +7,13 @@
   <li>🪙 bookcoin - A simple proof of work cryptocurrency</li>
   <li>📨 chatroom - Chatroom modeled on discord</li>
   <li>algoexpert-cpp - C++ solutions to the coding interview problems on AlgoExpert</li>
-  <li>graphql-blog-api - A simple GraphQL blog api</li>
 </ul>
 
 
 <h3>TODO projects:</h3>
 <ul>
   <li>🏦 Berthier - App for controlling spending money</li>
-  <li>👕 clothes-search - App for searching clothes from different e-commerce websites</li>
+  <li>👕 fashion-assistant - App for searching clothes from different e-commerce websites</li>
 </ul>
 
 <br/>
