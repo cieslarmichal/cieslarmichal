@@ -16,6 +16,7 @@
   <li>👕 fashion-assistant - App for searching clothes from different e-commerce websites</li>
   <li>🧑 friendbook - A social media backend api</li>
   <li>👨‍💼 recruitment-assistant - App for managing recruitment processes from recruit perspective</li>
+  <li>📨 slack-clone - Slack clone</li>
 </ul>
 
 <br/>
