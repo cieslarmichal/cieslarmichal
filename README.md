@@ -2,7 +2,7 @@
 
 <br/>
 
-<h3>Current projects:</h3>
+<h3>Current personal projects:</h3>
 <ul>
   <li>🪙 bookcoin - A simple proof of work cryptocurrency</li>
   <li>📨 chatroom - Chatroom modeled on discord</li>
@@ -10,10 +10,12 @@
 </ul>
 
 
-<h3>TODO projects:</h3>
+<h3>Future project ideas:</h3>
 <ul>
-  <li>🏦 Berthier - App for controlling spending money</li>
+  <li>🏦 berthier - App for controlling spending money</li>
   <li>👕 fashion-assistant - App for searching clothes from different e-commerce websites</li>
+  <li>🧑 friendbook - A social media backend api</li>
+  <li>👨‍💼 recruitment-assistant - App for managing recruitment processes from recruit perspective</li>
 </ul>
 
 <br/>
