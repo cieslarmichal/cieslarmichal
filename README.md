@@ -17,6 +17,7 @@
   <li>🧑 friendbook - A social media backend api</li>
   <li>👨‍💼 recruitment-assistant - App for managing recruitment processes from recruit perspective</li>
   <li>📨 slack-clone - Slack clone</li>
+  <li>📨 openai-discord-bot - OpenAI Discord bot</li>
 </ul>
 
 <br/>
