@@ -6,7 +6,6 @@
 <ul>
   <li>🪙 bookcoin - A simple proof of work cryptocurrency</li>
   <li>📨 chatroom - Chatroom modeled on discord</li>
-  <li>algoexpert-cpp - C++ solutions to the coding interview problems on AlgoExpert</li>
   <li>🧑 friendbook - A social media backend api</li>
 </ul>
 
@@ -16,8 +15,6 @@
   <li>🏦 berthier - App for controlling spending money</li>
   <li>👕 fashion-assistant - App for searching clothes from different e-commerce websites</li>
   <li>👨‍💼 recruitment-assistant - App for managing recruitment processes from recruit perspective</li>
-  <li>📨 slack-clone - Slack clone</li>
-  <li>📨 openai-discord-bot - OpenAI Discord bot</li>
 </ul>
 
 <br/>
