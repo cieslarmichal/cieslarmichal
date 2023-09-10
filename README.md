@@ -12,7 +12,6 @@
 
 <h3>Future project ideas:</h3>
 <ul>
-  <li>🏦 berthier - App for controlling spending money</li>
   <li>👕 fashion-assistant - App for searching clothes from different e-commerce websites</li>
   <li>👨‍💼 recruitment-assistant - App for managing recruitment processes from recruit perspective</li>
 </ul>
