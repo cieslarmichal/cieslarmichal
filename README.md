@@ -6,7 +6,7 @@
 <ul>
   <li>🪙 bookcoin - A simple proof of work cryptocurrency</li>
   <li>📨 chatroom - Chatroom modeled on discord</li>
-  <li>🧑 friendbook - A social media backend api</li>
+  <li>📚 friendbook - A social media backend api</li>
 </ul>
 
 
