@@ -6,7 +6,6 @@
 <ul>
   <li>🪙 bookcoin - A simple proof of work cryptocurrency</li>
   <li>📨 chatroom - Chatroom modeled on discord</li>
-  <li>📚 friendbook - A social media backend api</li>
 </ul>
 
 
@@ -14,7 +13,7 @@
 <ul>
   <li>👕 fashion-assistant - Application for searching clothes from different e-commerce websites</li>
   <li>👨‍💼 recruitment-assistant - Application for managing recruitment processes from recruit perspective</li>
-  <li>👨‍💼 bookshelf - Application for managing private books</li>
+  <li>📚 bookshelf - Application for managing private books</li>
 </ul>
 
 <br/>
