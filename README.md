@@ -6,14 +6,13 @@
 <ul>
   <li>🪙 bookcoin - A simple proof of work cryptocurrency</li>
   <li>📨 chatroom - Chatroom modeled on discord</li>
+  <li>📚 bookshelf - Application for managing private books</li>
 </ul>
 
 
 <h3>Future project ideas:</h3>
 <ul>
   <li>👕 fashion-assistant - Application for searching clothes from different e-commerce websites</li>
-  <li>👨‍💼 recruitment-assistant - Application for managing recruitment processes from recruit perspective</li>
-  <li>📚 bookshelf - Application for managing private books</li>
 </ul>
 
 <br/>
