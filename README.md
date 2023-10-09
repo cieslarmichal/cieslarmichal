@@ -13,6 +13,7 @@
 <h3>Future project ideas:</h3>
 <ul>
   <li>👕 fashion-assistant - Application for searching clothes from different e-commerce websites</li>
+  <li>snowflake - uuid generation system</li>
 </ul>
 
 <br/>
