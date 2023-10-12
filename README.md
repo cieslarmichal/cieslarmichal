@@ -15,7 +15,6 @@
   <li>👕 fashion-assistant - Application for searching clothes from different e-commerce websites</li>
   <li>snowflake - uuid generation system</li>
   <li>url shortener</li>
-  <li>web crawler</li>
 </ul>
 
 <br/>
