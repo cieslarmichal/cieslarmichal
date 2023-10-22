@@ -7,18 +7,22 @@
   <li>🪙 bookcoin - A simple proof of work cryptocurrency</li>
   <li>📨 chatroom - Chatroom modeled on discord</li>
   <li>📚 bookshelf - Application for managing private books</li>
+  <li>url shortener</li>
 </ul>
 
 
 <h3>Future project ideas:</h3>
 <ul>
   <li>👕 fashion-assistant - Application for searching clothes from different e-commerce websites</li>
-  <li>url shortener</li>
+  <li>video-transsizer</li>
 </ul>
 
 <br/>
 
-<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=cieslarmichal&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="cieslarmichal" /></p>
+<p align = "left">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=cieslarmichal&theme=dark&hide_border=true" width = 400>
+</p>
+
 
 <h3>Connect with me:</h3>
 <p align="left">
