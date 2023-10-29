@@ -7,7 +7,7 @@
   <li>🪙 bookcoin - A simple proof of work cryptocurrency</li>
   <li>📨 chatroom - Chatroom modeled on discord</li>
   <li>📚 bookshelf - Application for managing private books</li>
-  <li>🎞 video-transsizer</li>
+  <li>🎞 video-resizer</li>
 </ul>
 
 
