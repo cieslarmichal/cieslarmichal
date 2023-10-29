@@ -15,6 +15,7 @@
 <ul>
   <li>👕 fashion-assistant - Application for searching clothes from different e-commerce websites</li>
   <li>📺 airtime</li>
+  <li>redis-cxx</li>
 </ul>
 
 <br/>
