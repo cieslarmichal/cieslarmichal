@@ -7,7 +7,7 @@
   <li>🪙 bookcoin - A simple proof of work cryptocurrency</li>
   <li>📨 chatroom - Chatroom modeled on discord</li>
   <li>📚 bookshelf - Application for managing private books</li>
-  <li>🎞 video-resizer</li>
+  <li>redis-cxx</li>
 </ul>
 
 
@@ -15,7 +15,6 @@
 <ul>
   <li>👕 fashion-assistant - Application for searching clothes from different e-commerce websites</li>
   <li>📺 airtime</li>
-  <li>redis-cxx</li>
 </ul>
 
 <br/>
