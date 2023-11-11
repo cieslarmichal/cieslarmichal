@@ -15,7 +15,6 @@
 <ul>
   <li>👕 fashion-assistant - Application for searching clothes from different e-commerce websites</li>
   <li>📺 airtime</li>
-  <li>string-json-fmt-cxx</li>
 </ul>
 
 <br/>
