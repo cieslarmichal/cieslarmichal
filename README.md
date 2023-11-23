@@ -24,6 +24,10 @@
 
 
 <h3>Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cieslarmichal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cieslarmichal" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/cieslarmichal" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cieslarmichal" height="30" width="40" />
+</a>
+&nbsp
+<a href="https://discordapp.com/users/287609199402156042" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="30" />
+</a>
