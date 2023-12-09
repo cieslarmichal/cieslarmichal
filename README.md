@@ -14,6 +14,7 @@
 <ul>
   <li>incremental-search</li>
   <li>📺 airtime</li>
+  <li>config-cxx</li>
 </ul>
 
 <br/>
