@@ -4,9 +4,9 @@
 
 <h3>Current personal projects:</h3>
 <ul>
-  <li>🪙 bookcoin - A simple proof of work cryptocurrency</li>
   <li>📨 chatroom - Chatroom modeled on discord</li>
   <li>📚 misyma - Application for managing private books</li>
+  <li>⚙ config-cxx - Library for managing application configuration</li>
 </ul>
 
 
@@ -14,7 +14,6 @@
 <ul>
   <li>incremental-search</li>
   <li>📺 airtime</li>
-  <li>config-cxx</li>
 </ul>
 
 <br/>
