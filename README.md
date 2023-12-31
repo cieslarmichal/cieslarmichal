@@ -12,7 +12,6 @@
 
 <h3>Future project ideas:</h3>
 <ul>
-  <li>incremental-search</li>
   <li>📺 airtime</li>
 </ul>
 
