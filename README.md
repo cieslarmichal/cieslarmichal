@@ -16,6 +16,7 @@
   <li>⭐ A* visualizer</li>
   <li>🐦 tweet-fleet - Application for aggregating tweets</li>
   <li>👕 fashion-assistant - application that helps you to find clothes that suit you</li>
+  <li>bucketer</li>
 </ul>
 
 <br/>
