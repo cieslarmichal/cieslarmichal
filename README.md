@@ -6,7 +6,7 @@
 <ul>
   <li>📨 chatroom - Chatroom modeled on discord</li>
   <li>📚 misyma - Application for managing private books</li>
-  <li>⚙ config-cxx - Library for managing application configuration</li>
+  <li>bucketeer</li>
 </ul>
 
 
@@ -16,7 +16,6 @@
   <li>⭐ A* visualizer</li>
   <li>🐦 tweet-fleet - Application for aggregating tweets</li>
   <li>👕 fashion-assistant - application that helps you to find clothes that suit you</li>
-  <li>bucketeer</li>
 </ul>
 
 <br/>
