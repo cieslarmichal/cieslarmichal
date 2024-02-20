@@ -14,7 +14,6 @@
 <ul>
   <li>📺 airtime</li>
   <li>⭐ A* visualizer</li>
-  <li>👕 fashion-assistant - application that helps you to find clothes that suit you</li>
   <li>search-autocomplete</li>
 </ul>
 
