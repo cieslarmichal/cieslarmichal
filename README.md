@@ -13,7 +13,6 @@
 <h3>Future project ideas:</h3>
 <ul>
   <li>📺 airtime</li>
-  <li>⭐ A* visualizer</li>
   <li>search-autocomplete</li>
 </ul>
 
