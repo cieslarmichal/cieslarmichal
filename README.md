@@ -3,7 +3,6 @@
 <h2>Current personal projects</h3>
 <ul>
   <li>📚 misyma - Application for managing private books</li>
-  <li>🐦 tweet-fleet - Application for aggregating tweets</li>
   <li>🏡 neighbourly - Platform for connecting with your neighbours</li>
 </ul>
 
