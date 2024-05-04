@@ -4,11 +4,7 @@
 <ul>
   <li>📚 misyma - Application for managing private books</li>
   <li>🏡 neighbourly - Platform for connecting with your neighbours</li>
-</ul>
-
-<h2>Ideas</h3>
-<ul>
-  <li>📖 paper-to-speech - Application for converting papers (e.g. pdf) to speech</li>
+  <li>📖 pdf-to-speech - Application for converting pdf to speech</li>
 </ul>
 
 <h2>Connect with me:</h3>
