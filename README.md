@@ -7,6 +7,12 @@
   <li>📖 pdf-to-speech - Application for converting pdf to speech</li>
 </ul>
 
+<h2>Ideas</h3>
+<ul>
+  <li>review-reminder</li>
+  
+</ul>
+
 <h2>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/cieslarmichal" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cieslarmichal" height="30" width="40" />
