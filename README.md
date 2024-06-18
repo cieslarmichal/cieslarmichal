@@ -5,6 +5,7 @@
   <li>📚 misyma - Application for managing private books</li>
   <li>🏡 neighbourly - Platform for connecting with your neighbours</li>
   <li>📖 pdf-to-speech - Application for converting pdf to speech</li>
+  <li>file-naming-convention</li>
 </ul>
 
 <h2>Connect with me:</h3>
