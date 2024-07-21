@@ -4,6 +4,7 @@
 <ul>
   <li>📚 misyma - Application for managing private books</li>
   <li>🏡 neighbourly - Platform for connecting with your neighbours</li>
+  <li>podcast-translator</li>
 </ul>
 
 <h2>Connect with me:</h3>
