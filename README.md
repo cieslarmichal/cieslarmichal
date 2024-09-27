@@ -6,7 +6,12 @@
   <li>🏡 neighbourly - Platform for connecting with your neighbours</li>
 </ul>
 
-<h2>Connect with me:</h3>
+<p align = "left">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=cieslarmichal&theme=dark&hide_border=false" width = 400 height=160>
+  <img src = "https://github-readme-stats.vercel.app/api?username=cieslarmichal&show_icons=true&theme=dark" width = 400 height=160>
+</p>
+
+<h2>Connect with me</h3>
 <a href="https://www.linkedin.com/in/cieslarmichal" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cieslarmichal" height="30" width="40" />
 </a>
