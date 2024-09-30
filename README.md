@@ -3,7 +3,6 @@
 <h2>Current personal projects</h2>
 <ul>
   <li>📚 misyma - Application for managing private books</li>
-  <li>🏡 neighbourly - Platform for connecting with your neighbours</li>
 </ul>
 
 <h2>Statistics</h2>
