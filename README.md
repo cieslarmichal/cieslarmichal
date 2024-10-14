@@ -9,7 +9,6 @@
 
 <p align = "left">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=cieslarmichal&theme=dark&hide_border=false" width = 400 height=160>
-  <img src = "https://github-readme-stats.vercel.app/api?username=cieslarmichal&show_icons=true&theme=dark" width = 400 height=160>
 </p>
 
 <h2>Connect with me</h2>
