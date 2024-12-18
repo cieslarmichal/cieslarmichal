@@ -3,11 +3,7 @@
 <h2>Current personal projects</h2>
 <ul>
   <li>📚 misyma - Application for managing private books</li>
-</ul>
-
-<h2>Project ideas</h2>
-<ul>
-  <li>🏥 health-shelf - Application storing medical records and comparing them with previous results</li>
+  <li>🏥 health-track - Application designed to store, manage and compare your medical records over times</li>
 </ul>
 
 <h3>Connect with me</h2>
